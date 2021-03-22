@@ -13,7 +13,7 @@ The backend of this project was developed with **Php** and **SQL**. It's a **soc
 - **Notifications** of pending and accepted friend requests, as well as notifications of likes, comments and posts (allowing to approve posts written by another in your profile) related to the user in session;
 - **Search system** for all posts or all users, thus allowing you to find new friends;
 - **Account settings**, allowing user information, changing password and eliminating your own NoteMeet account;
-- **Dashboard of administrator** with accounting of the total users and posts of this network, as well as the possibility of viewing all users and tags (with the possibility of editing and deleting both); 
+- **Dashboard of administrator** with accounting of the total users and posts of this network, as well as the possibility of viewing all users and tags (with the possibility of editing and deleting both).
 
 # Resources
 [Theme Impact - Design System](https://demos.creative-tim.com/impact-design-system/)
