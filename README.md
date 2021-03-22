@@ -1,5 +1,5 @@
 # NoteMeet
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Profile Page in NoteMeet")
+![alt text](https://github.com/sansliv08/notemeet/blob/main/admin/assets/img/NoteMeet-profile.jpg "Profile Page in NoteMeet")
 
 The backend of this project was developed with **Php** and **SQL**. It's a **social networking website** with the following features:
 - **User** authentication system with login, registration, password recovery and logout;
